@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDuDEuUeaZqt0absbztCgwc8Hc_nAy0XDg",
-  authDomain: "olx-iitg-new.firebaseapp.com",
-  projectId: "olx-iitg-new",
-  storageBucket: "olx-iitg-new.appspot.com",
-  messagingSenderId: "798583463100",
-  appId: "1:798583463100:web:326146f11571ec8f1a84b9"
+  apiKey: "AIzaSyDheYBqfXe93lYd8CMDMW6ZGoJv5KVxVQg",
+  authDomain: "olx-clone-7d05f.firebaseapp.com",
+  projectId: "olx-clone-7d05f",
+  storageBucket: "olx-clone-7d05f.appspot.com",
+  messagingSenderId: "382318354016",
+  appId: "1:382318354016:web:1f4e373bed5a20d3182d05",
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
